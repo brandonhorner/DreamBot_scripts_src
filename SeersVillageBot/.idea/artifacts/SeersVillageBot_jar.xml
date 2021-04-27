@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeersVillageBot:jar">
+    <output-path>$PROJECT_DIR$/../../Scripts/DreamBot_OSRS</output-path>
+    <root id="archive" name="SeersVillageBot.jar">
+      <element id="module-output" name="SeersVillageBot" />
+    </root>
+  </artifact>
+</component>
